@@ -49,7 +49,7 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a workflow file</h2></summary>
 
 _Welcome to "Hello GitHub Actions"! :wave:_
@@ -95,7 +95,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
   Historic note: The previous course had troubleshooting steps for people not using the GitHub UI.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a job to your workflow file</h2></summary>
 
 _Nice work! :tada: You added a workflow file!_
