@@ -18,7 +18,7 @@ _Create a GitHub Action and use it in a workflow._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
@@ -49,7 +49,7 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Create a workflow file</h2></summary>
 
 _Welcome to "Hello GitHub Actions"! :wave:_
