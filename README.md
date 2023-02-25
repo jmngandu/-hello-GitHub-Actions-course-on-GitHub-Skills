@@ -95,7 +95,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
   Historic note: The previous course had troubleshooting steps for people not using the GitHub UI.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add a job to your workflow file</h2></summary>
 
 _Nice work! :tada: You added a workflow file!_
@@ -141,7 +141,7 @@ In this step of our exercise, we will add a "build" job. We will specify `ubuntu
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Add actions to your workflow file</h2></summary>
 
 _Nice work adding a job to your workflow! :dancer:_
