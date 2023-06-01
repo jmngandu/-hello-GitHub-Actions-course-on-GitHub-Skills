@@ -208,7 +208,7 @@ Merge your changes so the action will be a part of the `main` branch.
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Trigger the workflow</h2></summary>
 
 _You've now got a fully functioning workflow! :smile:_
@@ -234,7 +234,7 @@ Your new action will run any time a pull request has been opened.
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
